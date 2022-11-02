@@ -5,8 +5,6 @@
 - Available for kernel 3.x.x / 4.x.x only.
 - Work with python2.7 / python3+ also gcc installed on the machine.
 
-```
-
 **Usage:**
 - Spawn A Tty Shell In Terminal.
 - You must find accessible directory without 'permission denied', then create your own folder.
@@ -25,4 +23,3 @@
 [![THESATAN](https://i.ibb.co/8r23mBK/download.png "THESATAN")](https://i.ibb.co/8r23mBK/download.png "THESATAN")
 
 [![SATAN](https://i.ibb.co/q7xcwwt/download-1.png "SATAN")](https://i.ibb.co/q7xcwwt/download-1.png "SATAN")
-```
