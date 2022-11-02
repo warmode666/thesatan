@@ -6,18 +6,23 @@
 - Work with python2.7 / python3+ also gcc installed on the machine.
 
 ```
-Usage:
-- Spawn a tty shell in terminal.
+
+**Usage:**
+- Spawn A Tty Shell In Terminal.
 - You must find accessible directory without 'permission denied', then create your own folder.
 **Note: ❌Don't run THESATAN in public access or you will destroy yourself!**
 
-- Python2.7
-<sub>wget https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.py \
-python thesatan.py</sub>
+**- Python2.7**
+`wget https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.py`
+`python thesatan.py`
 
-- Python3+ 
-<sub>wget https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.py \
-python3 thesatan.py</sub>
+**- Python3+ **
+`wget https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.py`
+`python3 thesatan.py`
 
-- Wait until THESATAN done.
+***- Wait until THESATAN done.***
+
+[![THESATAN](https://i.ibb.co/8r23mBK/download.png "THESATAN")](https://i.ibb.co/8r23mBK/download.png "THESATAN")
+
+[![SATAN](https://i.ibb.co/q7xcwwt/download-1.png "SATAN")](https://i.ibb.co/q7xcwwt/download-1.png "SATAN")
 ```
