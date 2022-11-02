@@ -6,7 +6,7 @@
 - Work with python2.7 / python3+ also gcc installed on the machine.
 
 **Usage:**
-- Spawn A Tty Shell In Terminal.
+- Spawn A tty Shell In Terminal.
 - You must find accessible directory without 'permission denied', then create your own folder.
 **Note: ❌Don't run THESATAN in public access or you will destroy yourself!**
 
