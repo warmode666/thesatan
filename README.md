@@ -14,7 +14,7 @@
 `wget https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.py`
 `python thesatan.py`
 
-**- Python3.x **
+**- Python3.x**
 `wget https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.py`
 `python3 thesatan.py`
 
