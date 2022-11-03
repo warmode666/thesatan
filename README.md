@@ -1,4 +1,4 @@
-☣THESATAN - Automation Privilage Escalation for Linux.
+***☣THESATAN - Automation Privilage Escalation for Linux.***
 > This tool made for testing a Privilage Escalation on server.
 
 - 22 CVE Ready For Testing.
