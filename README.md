@@ -20,6 +20,8 @@
 
 ***- Wait until THESATAN done.***
 
+> [*] I am not responsible if you are doing something illegal using this program! 
+
 [![THESATAN](https://i.ibb.co/8r23mBK/download.png "THESATAN")](https://i.ibb.co/8r23mBK/download.png "THESATAN")
 
 [![SATAN](https://i.ibb.co/q7xcwwt/download-1.png "SATAN")](https://i.ibb.co/q7xcwwt/download-1.png "SATAN")
