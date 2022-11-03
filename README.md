@@ -2,7 +2,7 @@
 > This tool made for testing a Privilage Escalation on server.
 
 - 22 CVE Ready For Testing.
-- Available for kernel 3.x.x / 4.x.x only.
+- Available for kernel 3.x.x / 4.x.x
 - Work with python2.7 / python3+ also gcc installed on the machine.
 
 **Usage:**
