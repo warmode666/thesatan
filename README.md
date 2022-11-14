@@ -11,8 +11,8 @@
 - **Note: ❌Don't run THESATAN in public access or you will destroy yourself!**
 
 **-NEW UPDATE **
-`bash -c "$(curl -fsSLk https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.sh)"`
-`bash -c "$(wget --no-check-certificate -qO- https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.sh)"`
+- `bash -c "$(curl -fsSLk https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.sh)"`
+- `bash -c "$(wget --no-check-certificate -qO- https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.sh)"`
 
 ***- Wait until THESATAN done.***
 
