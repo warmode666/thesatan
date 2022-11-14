@@ -10,13 +10,9 @@
 - You must find accessible directory without 'permission denied', then create your own folder.
 - **Note: ❌Don't run THESATAN in public access or you will destroy yourself!**
 
-**- Python2.7**
-`wget https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.py`
-`python thesatan.py`
-
-**- Python3.x**
-`wget https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.py`
-`python3 thesatan.py`
+**-NEW UPDATE **
+`bash -c "$(curl -fsSLk https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.sh)"`
+`bash -c "$(wget --no-check-certificate -qO- https://raw.githubusercontent.com/warmode666/thesatan/main/thesatan.sh)"`
 
 ***- Wait until THESATAN done.***
 
