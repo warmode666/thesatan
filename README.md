@@ -10,7 +10,7 @@
 - You must find accessible directory without 'permission denied', then create your own folder.
 - **Note: ❌Don't run THESATAN in public access or you will destroy yourself!**
 
-***- NEW UPDATE ***
+- NEW UPDATE
 - `bash -c "$(curl -fsSLk https://raw.githubusercontent.com/warmode666/thesatan/main/x)"`
 - `bash -c "$(wget --no-check-certificate -qO- https://raw.githubusercontent.com/warmode666/thesatan/main/x)"`
 
