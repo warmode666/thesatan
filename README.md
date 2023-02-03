@@ -12,12 +12,10 @@
 
 **UPDATE**
 ```bash
-# From github
 bash -c "$(curl -fsSLk https://raw.githubusercontent.com/warmode666/thesatan/main/x)"
 ```
 
 ```bash
-# From github
 bash -c "$(wget --no-check-certificate -qO- https://raw.githubusercontent.com/warmode666/thesatan/main/x)"
 ```
 
